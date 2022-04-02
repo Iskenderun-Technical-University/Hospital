@@ -11,7 +11,7 @@ Otomasyonun içeriğini daha çok anlatmak istersek otomasyon hastanede hangi b�
 
 # Katkı Sağlayanlar
 
-Süveyda Sultan Altay
+Süveyda Sultan Altay 192523067
 
 Züleyha Taşgıt 192523023
 
