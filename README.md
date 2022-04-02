@@ -22,29 +22,6 @@ Züleyha Taşgıt 192523023
 C#
 
 
-C# Programlama Dili (si şarp şeklinde telaffuz edilir), Microsoft'un geliştirmiş olduğu yeni nesil dilidir. Yine Microsoft tarafından geliştirilmiş .NET Teknolojisi için geliştirilmiş dillerden biridir.Microsoft tarafından geliştirilmiş olsa da ECMA ve ISO standartları altına alınmıştır.Visual Studio kod editörü aynı zamanda hızlı navigasyon için kod ayarı yer imleri destekler. Diğer seyir yardımcıları, çöken kod blokları ve artımlı aramaya ekolarak normal metin arama ve regex arama içerir. Kod editörü aynı zamanda bir çoklu öğe panosu ve bir görev listesi içerir. Kod editörü ayrıca, tekrarlanan kod için kaydedilen ve üzerinde çalışılan proje içerisine yerleştirilebilen, kod parçacıklarını destekler.Visual Studio arka plan derleme özelliği de içerir (artımlı derleme olarak da bilinir). Kod yazılırken, sözdizimi ve derleme hataları hakkında geri bildirim sağlayabilmek için (bu hataların altı kızmızı ile işaretlenir) Visual Studio arkaplanda derleme yapar.Microsoft Visual C#
-Microsoft Visual C#, .NET Framework ile birlikte Visual Studio IDE'nin C# projelerine destek vermesini sağlayan dil servislerini hedef alan, Microsoft'un bir C#
-dil uygulamasıdır. Dil servislerinin, Visual Studio'nun bir parçası olmasıyla birlikte,derleyici, .NET Framework'un ayrı bir parçası olarakta bulunmaktadır.
-
-
-
-# Veritabanı
- 
- MSSQL 
-  
-Neden Veritabanı Kullanılır?
-Bilgisayar ortamında verilerin tutulması, saklanması ve erişilmesinde günümüze kadar değişik yöntem ve yaklaşımlar kullanılmıştır. Bu yaklaşımlardan biri olan Geleneksel Yaklaşım verilerin ayrı ayrı dosyalarda gruplanma yaklaşımını kullanmaktadır. Veritabanı programlarından önce verileri saklamak için programlama dillerinde sıralı ve rastgele dosyalama sistemleri kullanılırdı. Bu sistem; birbiriyle ilgili olan ve aynı gruba dâhil olan verilerin bir dosyada tutulması yöntemine dayanmaktadır. Verilerin artması, verilere aynı anda erişilmesi ve aynı anda erişilen verilerin erişenlere göre düzenlenmesi gibi ihtiyaçlar arttıkça geleneksel
-yaklaşım yetersiz kalmıştır.Diğer bir ismi ile db olarak bilinen database, verilerin belirli bir alanda depolanmasını sağlamaktadır. Özellikle devlet kurumlarında kullanılan bu sistem ile birçok veri rahatlıkla saklanabilmektedir. Belirli bir düzene göre uyarlanan bu sistemi birçok kuruluş kullanıyor.Db sayesinde milyonlarca kişinin bilgisine kısa süre içerisinde ulaşılmaktadır.
-
-MSSQL Nedir?
-MSSQL yani uzun adı ile Microsoft SQL Server temel olarak içerisinde verilerin depolandığı bir sistemdir. Daha detaylı ifade ile verilerin depolanmasını ve birden fazla kullanıcının aynı anda erişmesini sağlayan kurumsal çaplı ilişkisel veritabanı yönetim sistemidir. Bir internet sitesi içerisinde yer alan metinler, yazılara yönelik yorumlar, kullanıcıların bilgileri de dahil pek çok veri buraya depolanabiliyor.
-MSSQL Ne İşe Yarar?
-Windows firmasına ait bilgi yönetim ve depolama ürünü olan MSSQL, işletmeler için önemli bir sistem. Microsoft SQL Server ile veri işleme, indeksleme, sorgulama, raporlama gibi çeşitli işlemler yapılabiliyor. Masaüstü uygulama ve programları kullanacak olanların ve internet sistemleri tasarlayıp hazırlayanların veritabanı gereksinimini iyi derecede karşılıyor.
-
-
-
-
-
 
 # İş Dağılımı
 Hastanenin ana yazılımı (Züleyha Taşgıt)
@@ -56,12 +33,7 @@ Veritabanı tablolarının oluşturulması (Züleyha Taşgıt)
 Otomasyonun ara yüz  tasarım (Süveyda Sultan Altay)
 
 
-# Check List
-
-Süveyda Sultan Altay
-
-{
- #Yazılım Geliştirme Süreci
+ # Yazılım Geliştirme Süreci
  
  Görev 1: Problemin tanımı & Planlama,
  Görev 2: Çözüm & Analiz,
@@ -109,6 +81,26 @@ Muayene Kayıtları
 Bu form mevcut hastaların muayene kayıtlarına ulaşmak için tasarlanmıştır.Burada hasta muayene bilgileri güncellemeleri tektik istekleri ve reçete bilgileri
 işlenebilmektedir.
 
+
+# Check List
+
+Züleyha Taşgıt
+
+{
+
+Hastanenin ana yazılımı (20.05.2022)
+
+Veritabanı tablolarının oluşturulması (17.06.2022)
+
+}
+
+Süveyda Sultan Altay
+
+{
+
+Hasta ana yazılımı (18.05.2022)
+
+Otomasyonun ara yüzü (16.5.2022)
 
 
 
