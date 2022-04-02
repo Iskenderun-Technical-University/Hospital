@@ -107,7 +107,7 @@ Sisteme kayıtlı hastalarımız için hasta randevu formu tasarlanmış olup bu
 
 Muayene Kayıtları
 Bu form mevcut hastaların muayene kayıtlarına ulaşmak için tasarlanmıştır.Burada hasta muayene bilgileri güncellemeleri tektik istekleri ve reçete bilgileri
-işlenebilmektedir
+işlenebilmektedir.
 
 
 
