@@ -35,6 +35,11 @@ Otomasyonun ara yüz  tasarım (Süveyda Sultan Altay)
 
 Süveyda Sultan Altay
 
+{
+
+
+
+
 
 
 
