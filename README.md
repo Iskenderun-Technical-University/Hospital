@@ -63,12 +63,12 @@ Süveyda Sultan Altay
 
  #Yazılım Geliştirme Süreci
  
- Görev 1: Problemin tanımı & Planlama
- Görev 2: Çözüm & Analiz
- Görev 3:Tasarım
- Görev 4:Gerçekleştirim
- Görev 5:Test
- Görev 6:Uygulama
+ Görev 1: Problemin tanımı & Planlama,
+ Görev 2: Çözüm & Analiz,
+ Görev 3:Tasarım,
+ Görev 4:Gerçekleştirim,
+ Görev 5:Test,
+ Görev 6:Uygulama,
 
 
 
