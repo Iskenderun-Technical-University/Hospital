@@ -42,28 +42,6 @@ Otomasyonun ara yüz  tasarım (Süveyda Sultan Altay)
  Görev 5:Test,
  Görev 6:Uygulama,
 }
- 
- Birinci Aşama:Tanımlama/Planlama
- 
- Projedeki modüller: Projede olması düşünülen modüller aşağıdaki gibidir,
-•Login modülü
-•Patient modülü
-•Appointment giriş modülü
-•Survey modülü
-•Labratory modülü
-•Radiological modülü
-•Cashier's-Office modülü
-•Stocks modülü
-
-İkinci Aşama: Geliştirme
-“Ne istendiği” tam olarak anlaşıldıktan sonra, sıra bunu yapmaya gelir.
-Projede Kullanılacak Teknolojile = Proje de programlama dili olarak Microsoft firması tarafından geliştirilen CSharp(C#) dili kullanılacaktır. C# ile yazılımlar daha esnek, geliştirilebilir ve temiz bir kodlama standarttı ile kodlanmış olur. Bu da maliyet ve hız açısından çok büyük bir getiridir.
-
-
-Üçüncü Aşama: Bakım/Destek
-Zaman içerisinde değişim ihtiyacı duyulmayacak bir yazılım sistemi düşünülemez. Kullanıcı ya da müşterilerin ihtiyaçlarındaki değişimlerin sisteme yansıtılması gerekir. Ayrıca, yeni bir donanım ya da yazılım altyapısı nedeniyle sistemin çalışma koşulları değişebilir. Tabii ki testler sırasında fark edilmeyen hatalar
-tespit edilebilir ve giderilmesi gerekir.Yazılımın dağıtılması ve kullanıma başlanmasından sonra yazılımda yapılacak değişiklikler yazılımın bakımı (software maintenance) olarak adlandırılır.Bu değişiklikler basit kodlama hatalarının düzeltilmesi (bug-fixes) şeklinde olabileceği gibi tasarımdan kaynaklanan hataların giderilmesi gibi daha kapsamlı değişiklikler şeklinde de olabilir. Yazılımın bakımı aslında yazılımın evrimleşmesidir. Yazılımın yaşamına devam edebilmesi için gerekli değişikliklerin uygulanmasıdır.
-
 
 Login Page
 Programa sadece yetkili kişilerin erişimini, diğer kişilerin program erişimini engellemek için LoginPage sayfamız hazırlanmıştır.
