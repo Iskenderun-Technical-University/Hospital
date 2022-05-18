@@ -79,6 +79,7 @@ Süveyda Sultan Altay
 Hasta ana yazılımı (18.05.2022)
 
 Otomasyonun ara yüzü (16.5.2022)
+}
 
 
 
