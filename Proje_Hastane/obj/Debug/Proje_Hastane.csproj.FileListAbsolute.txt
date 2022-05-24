@@ -1,0 +1,16 @@
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\bin\Debug\Proje_Hastane.exe.config
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\bin\Debug\Proje_Hastane.exe
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\bin\Debug\Proje_Hastane.pdb
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.AssemblyReference.cache
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.Form1.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.Properties.Resources.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.GenerateResource.cache
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.csproj.CoreCompileInputs.cache
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.exe
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.pdb
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaGiris.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmBilgiDuzenle.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorDetay.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmDoktorGiris.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaDetay.resources
+C:\Users\züleyha\OneDrive\Masaüstü\Proje_Hastane\obj\Debug\Proje_Hastane.FrmHastaKayit.resources
