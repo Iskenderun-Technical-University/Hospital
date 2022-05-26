@@ -21,5 +21,12 @@ namespace Proje_Hastane
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FrmHastaGiris fr = new FrmHastaGiris();
+            fr.Show();
+            this.Hide();
+        }
     }
 }
