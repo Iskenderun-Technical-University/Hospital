@@ -22,16 +22,28 @@ namespace Proje_Hastane
 
         }
 
+<<<<<<< HEAD:Proje_Hastane/Proje_Hastane/FrmGiris.cs
 
         private void BtnHastaGirisi_Click(object sender, EventArgs e)
+=======
+<<<<<<< HEAD
+        private void BtnHastaGirisi_Click(object sender, EventArgs e)
+=======
+        private void button1_Click(object sender, EventArgs e)
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
+>>>>>>> 4574c9f68f309f58cd6213fd1539a13bd358aadf:Proje_Hastane/FrmGiris.cs
         {
             FrmHastaGiris fr = new FrmHastaGiris();
             fr.Show();
             this.Hide();
         }
+<<<<<<< HEAD:Proje_Hastane/Proje_Hastane/FrmGiris.cs
 
       
 
+=======
+<<<<<<< HEAD
+>>>>>>> 4574c9f68f309f58cd6213fd1539a13bd358aadf:Proje_Hastane/FrmGiris.cs
 
         private void BtnDoktorGirisi_Click(object sender, EventArgs e)
         {
@@ -46,10 +58,15 @@ namespace Proje_Hastane
             fr.Show();
             this.Hide();
         }
+<<<<<<< HEAD:Proje_Hastane/Proje_Hastane/FrmGiris.cs
 
         private void Form1_Load_1(object sender, EventArgs e)
         {
 
         }
+=======
+=======
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
+>>>>>>> 4574c9f68f309f58cd6213fd1539a13bd358aadf:Proje_Hastane/FrmGiris.cs
     }
 }
