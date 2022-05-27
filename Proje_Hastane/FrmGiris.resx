@@ -528,7 +528,11 @@
   <data name="BtnSekreterGirisi.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
+<<<<<<< HEAD
         wgAADsIBFShKgAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAHxrSURBVHhe7d0H
+=======
+        xAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAHxrSURBVHhe7d0H
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
         mF1V1QZgp/dMZiZ1Sia9994rkISEFlpCSyU0IaQnYAIkQICQHhIElCYqWCg2VFCaFMWOBQXsFZAWfxWF
         /a9148XL8M3MWefsU+/6nud9xMzMvnvvO3PWPXV/SKPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaDQajUaj
         0Wg0Go1Go9FoNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaDQajUaj0Wg0Go1Go9FoNBqNRqPRaDQa
@@ -1066,7 +1070,11 @@
   <data name="pictureBox1.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAA4
+<<<<<<< HEAD
         ZQAAOGUBGyJIsgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACkgSURBVHhe7d0L
+=======
+        ZgAAOGYBtptp3wAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAACkgSURBVHhe7d0L
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
         vG1VXfbxc+CAgEog4hUSxXoV4VVUFMwL4gXJvGCiYngDS0FNCVHk1URTCS+kBt5esgxNUVFAMjBJSQ1B
         IS0xTUgJNcErqIEi2jNyHvkzefY+a609xpxjjv17Pp9vn3r2WvM/5tl0xj5rzzXXml/84hcAAGCVsSUA
         AGibLQEAQNtsCQAA2mZLAADQNlsCAIC22RIAALTNlgAAoG22BAAAbbMlAABomy0BAEDbbAkAANpmSwAA
@@ -1243,6 +1251,7 @@
         WwIAgLbZEgAAtM2WAACgbbYEAABtsyUAAGibLQEAQNtsCQAA2mZLAADQNlsCAIC22RIAALTNlgAAoG22
         BAAAbbMlAABomy0BAEDbbAkAANpmSwAA0DZbAgCAttkSAAC0zZYAAKBttgQAAG2zJQAAaJstAQBA22wJ
         AADaZksAANA2WwIAgJb9Ys3/AJqRFkEopkiuAAAAAElFTkSuQmCC
+<<<<<<< HEAD
 </value>
   </data>
   <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
@@ -4251,6 +4260,8 @@
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIA+eOScVrU8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAgAEAAIABAADgBwAA4AcAAOAHAADgBwAA4AcAAOAHAADgBwAA4AcAAPw/AAD8
         PwAA/n8AAA==
+=======
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
 </value>
   </data>
 </root>

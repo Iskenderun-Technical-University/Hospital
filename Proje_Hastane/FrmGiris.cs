@@ -22,12 +22,17 @@ namespace Proje_Hastane
 
         }
 
+<<<<<<< HEAD
         private void BtnHastaGirisi_Click(object sender, EventArgs e)
+=======
+        private void button1_Click(object sender, EventArgs e)
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
         {
             FrmHastaGiris fr = new FrmHastaGiris();
             fr.Show();
             this.Hide();
         }
+<<<<<<< HEAD
 
         private void BtnDoktorGirisi_Click(object sender, EventArgs e)
         {
@@ -42,5 +47,7 @@ namespace Proje_Hastane
             fr.Show();
             this.Hide();
         }
+=======
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
     }
 }

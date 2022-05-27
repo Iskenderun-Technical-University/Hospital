@@ -43,6 +43,7 @@ namespace Proje_Hastane
             // 
             // BtnHastaGirisi
             // 
+<<<<<<< HEAD
             this.BtnHastaGirisi.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("BtnHastaGirisi.BackgroundImage")));
             this.BtnHastaGirisi.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.BtnHastaGirisi.Location = new System.Drawing.Point(75, 154);
@@ -51,6 +52,16 @@ namespace Proje_Hastane
             this.BtnHastaGirisi.TabIndex = 0;
             this.BtnHastaGirisi.UseVisualStyleBackColor = true;
             this.BtnHastaGirisi.Click += new System.EventHandler(this.BtnHastaGirisi_Click);
+=======
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
+            this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.button1.Location = new System.Drawing.Point(75, 154);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(119, 93);
+            this.button1.TabIndex = 0;
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+>>>>>>> 3ac9f35f1c6c73e670cc05e3044cdd91ab34ea8a
             // 
             // BtnDoktorGirisi
             // 
